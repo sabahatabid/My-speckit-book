@@ -1,0 +1,9 @@
+{
+  "total_requests": 11,
+  "total_input_tokens": 818,
+  "total_output_tokens": 1204,
+  "total_cost": 0.003635,
+  "model": "gpt-3.5-turbo",
+  "first_request": "2026-01-25T22:48:53.211213",
+  "last_request": "2026-01-26T19:33:14.273387"
+}

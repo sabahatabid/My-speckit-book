@@ -1,0 +1,123 @@
+[
+  {
+    "timestamp": "2026-01-25T22:48:53.201185",
+    "model": "gpt-3.5-turbo",
+    "query": "summary of module 1",
+    "context_length": 0,
+    "input_tokens": 76,
+    "output_tokens": 122,
+    "total_tokens": 198,
+    "cost_usd": 0.000358,
+    "response_length": 693
+  },
+  {
+    "timestamp": "2026-01-25T22:49:49.704429",
+    "model": "gpt-3.5-turbo",
+    "query": "discuss about introduction of book",
+    "context_length": 0,
+    "input_tokens": 77,
+    "output_tokens": 214,
+    "total_tokens": 291,
+    "cost_usd": 0.000544,
+    "response_length": 1229
+  },
+  {
+    "timestamp": "2026-01-25T22:52:18.891651",
+    "model": "gpt-3.5-turbo",
+    "query": "hi",
+    "context_length": 0,
+    "input_tokens": 72,
+    "output_tokens": 36,
+    "total_tokens": 108,
+    "cost_usd": 0.00018,
+    "response_length": 188
+  },
+  {
+    "timestamp": "2026-01-25T23:37:42.434244",
+    "model": "gpt-3.5-turbo",
+    "query": "how many modules in book",
+    "context_length": 0,
+    "input_tokens": 76,
+    "output_tokens": 171,
+    "total_tokens": 247,
+    "cost_usd": 0.000456,
+    "response_length": 1001
+  },
+  {
+    "timestamp": "2026-01-26T00:35:38.311606",
+    "model": "gpt-3.5-turbo",
+    "query": "hi how are you",
+    "context_length": 0,
+    "input_tokens": 75,
+    "output_tokens": 26,
+    "total_tokens": 101,
+    "cost_usd": 0.000164,
+    "response_length": 122
+  },
+  {
+    "timestamp": "2026-01-26T00:36:03.734033",
+    "model": "gpt-3.5-turbo",
+    "query": "tell me about book",
+    "context_length": 0,
+    "input_tokens": 75,
+    "output_tokens": 154,
+    "total_tokens": 229,
+    "cost_usd": 0.00042,
+    "response_length": 949
+  },
+  {
+    "timestamp": "2026-01-26T00:36:25.567343",
+    "model": "gpt-3.5-turbo",
+    "query": "for eassy way",
+    "context_length": 0,
+    "input_tokens": 75,
+    "output_tokens": 91,
+    "total_tokens": 166,
+    "cost_usd": 0.000295,
+    "response_length": 598
+  },
+  {
+    "timestamp": "2026-01-26T00:58:42.121615",
+    "model": "gpt-3.5-turbo",
+    "query": "hello",
+    "context_length": 0,
+    "input_tokens": 72,
+    "output_tokens": 75,
+    "total_tokens": 147,
+    "cost_usd": 0.000258,
+    "response_length": 440
+  },
+  {
+    "timestamp": "2026-01-26T00:59:02.785189",
+    "model": "gpt-3.5-turbo",
+    "query": "hi",
+    "context_length": 0,
+    "input_tokens": 72,
+    "output_tokens": 15,
+    "total_tokens": 87,
+    "cost_usd": 0.000138,
+    "response_length": 88
+  },
+  {
+    "timestamp": "2026-01-26T19:32:40.734329",
+    "model": "gpt-3.5-turbo",
+    "query": "hi",
+    "context_length": 0,
+    "input_tokens": 72,
+    "output_tokens": 12,
+    "total_tokens": 84,
+    "cost_usd": 0.000132,
+    "response_length": 63
+  },
+  {
+    "timestamp": "2026-01-26T19:33:14.269888",
+    "model": "gpt-3.5-turbo",
+    "query": "tell me about books chapters",
+    "context_length": 0,
+    "input_tokens": 76,
+    "output_tokens": 288,
+    "total_tokens": 364,
+    "cost_usd": 0.00069,
+    "response_length": 1722
+  }
+]
